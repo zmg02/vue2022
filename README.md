@@ -1,5 +1,5 @@
 # vue2022
-
+# 学习技能；我亦无他，唯手熟尔。计划、坚持、专注、练习。
 ## Project setup
 ```
 npm install
